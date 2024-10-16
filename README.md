@@ -56,20 +56,6 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[<img src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=lucthienphong1120)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
-
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
-</a>
-
-*User achievement statistics by [Github Trophies](https://github.com/lucthienphong1120/github-trophies)*
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
