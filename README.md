@@ -19,7 +19,7 @@ Chào mừng bạn đến với dự án **"Bán Máy Tính"**! Đây là một 
 
 ## 🖼️ Hình Ảnh Nền Tảng
 
-![Hình Ảnh 1]([https://via.placeholder.com/800x400?text=Hình+Ảnh+1](https://png.pngtree.com/thumb_back/fh260/background/20230705/pngtree-digital-devices-on-blue-shelf-laptop-mobile-phone-and-tablet-pc-image_3811397.jpg))
+![Hình Ảnh 1](https://png.pngtree.com/thumb_back/fh260/background/20230705/pngtree-digital-devices-on-blue-shelf-laptop-mobile-phone-and-tablet-pc-image_3811397.jpg)
 ![Hình Ảnh 2](https://via.placeholder.com/800x400?text=Hình+Ảnh+2)
 ![Hình Ảnh 3](https://via.placeholder.com/800x400?text=Hình+Ảnh+3)
 
