@@ -16,6 +16,13 @@ Chào mừng bạn đến với dự án **"Bán Máy Tính"**! Đây là một 
 - **🛒 Giỏ hàng**: Thêm sản phẩm vào giỏ hàng và thực hiện thanh toán dễ dàng.
 - **📱 Responsive**: Giao diện tương thích với các thiết bị di động và máy tính để bàn.
 
+
+## 🖼️ Hình Ảnh Nền Tảng
+
+![Hình Ảnh 1](https://via.placeholder.com/800x400?text=Hình+Ảnh+1)
+![Hình Ảnh 2](https://via.placeholder.com/800x400?text=Hình+Ảnh+2)
+![Hình Ảnh 3](https://via.placeholder.com/800x400?text=Hình+Ảnh+3)
+
 ## 💻 Công Nghệ Sử Dụng
 
 ### Frontend
