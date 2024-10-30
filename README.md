@@ -148,7 +148,6 @@
 <br>
 <p><strong>🌟 Chúng tôi tin rằng Hệ thống Quản lý Phòng khám An Tâm sẽ góp phần nâng cao chất lượng dịch vụ y tế và mang lại sự thuận tiện tối đa cho bệnh nhân. Hãy cùng chúng tôi xây dựng một môi trường chăm sóc sức khỏe tốt nhất cho cộng đồng!</strong></p>
 <br>
-📫 Liên Hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua email: TRIDSN@gmail.com.
+
 
 
